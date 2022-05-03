@@ -1,0 +1,54 @@
+  .row {
+            max-width: 500px;
+            margin: auto;
+            background-color: rgb(186, 186, 231);
+        }
+
+        .container {
+            max-width: 500px;
+            margin: 0%;
+        }
+
+
+
+        .book {
+            max-width: 500px;
+            margin: auto;
+        }
+
+        .date {
+            max-width: 500px;
+            margin: auto;
+        }
+
+        */ hr {
+            max-width: 100%;
+        }
+
+        .line {
+            max-width: 500px;
+            margin: auto;
+            text-align: right;
+        }
+
+        .left {
+            float: left;
+            height: 200px;
+            width: 50%;
+            /*max-width: 500px;
+            margin: auto;
+            height: 300px;*/
+        }
+
+        div.right {
+            float: right;
+            height: 200px;
+            width: 50%;
+
+        }
+
+        .contact {
+            margin: 0;
+            max-width: 500px;
+
+        }
